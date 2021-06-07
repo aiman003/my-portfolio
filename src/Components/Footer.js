@@ -25,7 +25,7 @@ class Footer extends Component {
               <li>
                 Design by{""}
                 <a
-                  
+                  href="https://aimanfatima.netlify.com"
                 >
                    AYMAN FATIMA
                 </a>
