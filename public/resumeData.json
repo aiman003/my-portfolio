@@ -1,0 +1,124 @@
+{
+  "main": {
+    "name": "Aiman fatima",
+    "occupation": "Student, Freelancer",
+    "description": "Front end web developer",
+    "image": "IG_Sonny.jpeg",
+    "bio": "Hello! My name is AIMAN FATIMA. I'm a Freelancer Web  Developer based in Banglore. Currently pursuing bachelor of degree in Computer Science & Engineering at VTU. I'm looking forward to work in-hand with the organizations which provide an intution of collective belonging, responsibility and an environment that nurtures the ideas of creativity.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "fatimaaiman760@gmail.com",
+    "phone": "6363274984",
+    "address": {
+      "street": "Ghousia College of Engineering",
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "Ramanagaram"
+    },
+    "website": "https://github.com/aiman003",
+    "resumedownload": "https://github.com/aiman003",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/aiman-fatima-a99279178",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/aiman003",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Skills",
+    "education": [
+      {
+        "school": "Shaheen Independent PU College Bidar ",
+        "degree": "PCMB",
+        "graduated": "JUNE 2017",
+        "description": "Graduated with First Class"
+      },
+      {
+        "school": "Ghousia College Of Engineering",
+        "degree": "B.E in Computer Science",
+        "graduated": "(August 2017 - August 2021)",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Aceess",
+        "title": "Team Member && Beginner in React",
+        "years": "April 2020 - Present",
+        "description": "Built Self portfolio"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "HTML",
+        "level": "85%"
+      },
+      {
+        "name": "CSS",
+        "level": "80%"
+      },
+
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+
+      {
+        "name": "JS",
+        "level": "70%"
+      },
+    
+      {
+        "name": "PYTHON",
+        "level": "10%"
+      },
+      
+      {
+        "name": "FIREBASE",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MENU",
+        "category":"Simple menu items",
+        "image": "menu.PNG",
+        "url": "https://menu007.netlify.com"
+      }
+    
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Aiman is very hardworking and intelligent developer and very passionate about web developing.",
+        "user": "yaman Khan"
+      },
+      {
+        "text": "Aiman  worked with us as a front-end web developer and proved himself to be a very dependable and smart individual with solid problem solving skills.",
+        "user": "Syeda mahiya"
+      }
+    ]
+  }
+}
